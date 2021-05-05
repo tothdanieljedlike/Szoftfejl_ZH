@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\obj\Debug\szoftfej_ZH.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\obj\Debug\szoftfej_ZH.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\bin\Debug\szoftfej_ZH.exe.config
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\bin\Debug\szoftfej_ZH.exe
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\bin\Debug\szoftfej_ZH.pdb
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\obj\Debug\szoftfej_ZH.exe
+C:\Users\danie\source\repos\szoftfej_ZH\szoftfej_ZH\obj\Debug\szoftfej_ZH.pdb
